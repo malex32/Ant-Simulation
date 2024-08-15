@@ -1,0 +1,1491 @@
+fileFormatVersion: 2
+guid: dbfa5431e0fe94422870d734b00b10b7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1736
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bd37cf7256b4412a51008ae63d381d
+      internalID: -100548724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_1
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1736
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b88f92abc8a945e9bf5e7beb1b80fea
+      internalID: -1067236685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_2
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1736
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1efe0d209620460ebe08bcc1bf6c0ba
+      internalID: 1622794917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_3
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1736
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459d920a3ef434b8387aa0fd614c319e
+      internalID: -1809832178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_4
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1736
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557d406bdce9f4543b17d67b367be9f6
+      internalID: -346010448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_5
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1736
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7dcac9e8b02d4161877f605180f7b30
+      internalID: 2111472915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_6
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1736
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abb38bdd4fa245ae99a5f7cf528e576
+      internalID: -1904062348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_7
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 1736
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3473293286838430c8394a92bc6c5514
+      internalID: 304255048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1488
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b1a2dc53387417399e6f03ce982b2a
+      internalID: -416525242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_9
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1488
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccbe4e8ba0034c06a74127cd66fb110
+      internalID: -1608043559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_10
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1488
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6338c6b34797041ab81cbb7f0b7873df
+      internalID: -1922768123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_11
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1488
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d07d25296cd445eb8e95ac3a602849
+      internalID: -1826863236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_12
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1488
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03379a877e3449d5ac8da53ee42497f
+      internalID: 1188762026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_13
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1488
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0ac08d9361641f49e68f704c4ad3fd
+      internalID: 320414435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_14
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1488
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf98cc3e7a484d2ebbb79635e8e75bd
+      internalID: -1636168073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_15
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 1488
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a255e749261304c13b2c8241df536291
+      internalID: -403376854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1240
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6fd8f13211949a7aa575de4bc1d5c8
+      internalID: 2034314695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_17
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1240
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c882f60e68134e0aa922c608d0b925a
+      internalID: 792019648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_18
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1240
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f429e2765274eaabce911a03976852
+      internalID: -1062665309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_19
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1240
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc3c65e45c4943aabb2afb44500167c
+      internalID: -1667108166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_20
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1240
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db91a573885d455db1d7f47ffc90799
+      internalID: 1386982589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_21
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1240
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcdc807b5dc34194bb7f869231e22f8
+      internalID: 1993402477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_22
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1240
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b81cad61ba64bc7bd2ba5b6627229a
+      internalID: -858058453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_23
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 1240
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0861abbbedc154ea49b4f2fd1e6ecb4e
+      internalID: -391536693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 992
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b227f9fe98c49483bb00f0eb845c8c1d
+      internalID: 707555481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_25
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 992
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956dcfbb940c54d4fb867501a7bc609a
+      internalID: -1521524227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_26
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 992
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43e86e6e7395460e85b50c331f4d3e7
+      internalID: 1515555127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_27
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 992
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562688d5587db4361af1653b1088855f
+      internalID: -730063760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_28
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 992
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcefcd9effa248be9c0abd21de1621a
+      internalID: -1071396669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_29
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 992
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a526e24d447f4187aa2a471a5d22b12
+      internalID: 1097861990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_30
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 992
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83252469e8ecb4f3cb98ff251f1052b3
+      internalID: 2025957771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_31
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 992
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b863e32a1e44a4fbe8da4d25757a6ed9
+      internalID: -429776785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1db6d9875013458395bfc3fd2626cc3
+      internalID: -1898962154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_33
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 744
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42312a13b5c9424aab8f0649b5edfa6
+      internalID: -350775150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_34
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 744
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c65ced1a9f54286b52a2880b2097d2
+      internalID: -1104577247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_35
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 744
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00233be57b1274eac8ec781cd8ff5fb0
+      internalID: -488710762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_36
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 744
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7127ec8cafe2e43c3a29d04b19f0062e
+      internalID: -2112466505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_37
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 744
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae3aeccddb124ff998ba635796bab02
+      internalID: 198828836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_38
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 744
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3816693e5bb9b4f029aed7142e1943b4
+      internalID: 1742468730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_39
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 744
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0f6bc99e7b94600baad1b3e9811b86
+      internalID: -1120295518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 496
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3f87f8cfd98480784702d00689a274
+      internalID: 576482920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_41
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 496
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4417dff6ad5e245539478cc8d9cd7ce2
+      internalID: 1300707228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_42
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 496
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b88271af1844376ab6ceea7fbb5ce4
+      internalID: -694063418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_43
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 496
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1ab26eec618420f83474ac42bb116e
+      internalID: 922666163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_44
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 496
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520fc992a112d48168b27cd587ae24f4
+      internalID: 371141405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_45
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 496
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b757f25cc794a47b76cde63a2678d1
+      internalID: 785206617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_46
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 496
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4363d080e6e4c4184909afc7d3e50dae
+      internalID: -1676017949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_47
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 496
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d9ed9e8ca7b4403b7bd10b1471e086
+      internalID: -1443131350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d98d29e865b47f0be8be7c85ae744e
+      internalID: -1182191388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_49
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 248
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8c8616ad40c43b28a2c120069c0e52
+      internalID: -1352069486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_50
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 248
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661ad494b4d6a44469c274b519d8407b
+      internalID: 1495813850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_51
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 248
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a194daebe4b45ef93813593aef227f
+      internalID: -236219150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_52
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 248
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb16fd61706f4549822127baf171172
+      internalID: -928750028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_53
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 248
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84530d54c966c49378ed38a4f64e1328
+      internalID: 1744392744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_54
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 248
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cce7866934bd4f29ad2f591995044c0
+      internalID: -668984390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_55
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 248
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3f50e01dec24f49966e138ea252568
+      internalID: -544807925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d0ea8ab7bcf48da8c41956764acc72
+      internalID: 1665246568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_57
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca393a08d2dab406aa74f99e985cf009
+      internalID: 1456902658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_58
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 0
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b92101ba8f54ebca20b4944d8867f6
+      internalID: -1257590311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_59
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 0
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a597c85f9ca1e4bc1ae4dde1d30d12bc
+      internalID: 945406875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_60
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 0
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd2016dcfd454cbaa7f178a920096d7
+      internalID: 1653995580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_61
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 0
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fef2c10be28842d8a1e03a08bb343a0
+      internalID: 1875672556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      walk_0: -100548724
+      walk_1: -1067236685
+      walk_10: -1922768123
+      walk_11: -1826863236
+      walk_12: 1188762026
+      walk_13: 320414435
+      walk_14: -1636168073
+      walk_15: -403376854
+      walk_16: 2034314695
+      walk_17: 792019648
+      walk_18: -1062665309
+      walk_19: -1667108166
+      walk_2: 1622794917
+      walk_20: 1386982589
+      walk_21: 1993402477
+      walk_22: -858058453
+      walk_23: -391536693
+      walk_24: 707555481
+      walk_25: -1521524227
+      walk_26: 1515555127
+      walk_27: -730063760
+      walk_28: -1071396669
+      walk_29: 1097861990
+      walk_3: -1809832178
+      walk_30: 2025957771
+      walk_31: -429776785
+      walk_32: -1898962154
+      walk_33: -350775150
+      walk_34: -1104577247
+      walk_35: -488710762
+      walk_36: -2112466505
+      walk_37: 198828836
+      walk_38: 1742468730
+      walk_39: -1120295518
+      walk_4: -346010448
+      walk_40: 576482920
+      walk_41: 1300707228
+      walk_42: -694063418
+      walk_43: 922666163
+      walk_44: 371141405
+      walk_45: 785206617
+      walk_46: -1676017949
+      walk_47: -1443131350
+      walk_48: -1182191388
+      walk_49: -1352069486
+      walk_5: 2111472915
+      walk_50: 1495813850
+      walk_51: -236219150
+      walk_52: -928750028
+      walk_53: 1744392744
+      walk_54: -668984390
+      walk_55: -544807925
+      walk_56: 1665246568
+      walk_57: 1456902658
+      walk_58: -1257590311
+      walk_59: 945406875
+      walk_6: -1904062348
+      walk_60: 1653995580
+      walk_61: 1875672556
+      walk_7: 304255048
+      walk_8: -416525242
+      walk_9: -1608043559
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

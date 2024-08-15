@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74ca9ae31046f4019b8304b493be3c06, type: 3}
+  m_Name: AntSettings
+  m_EditorClassIdentifier: 
+  maxSpeed: 5
+  steerSpeed: 5
+  acceleration: 7
+  randomSteerMaxDuration: 1
+  randomSteerStrength: 0.6
+  targetSteerStrength: 3
+  timeBetweenDirUpdate: 0.1
+  collisionAvoidSteerStrength: 5
+  pheromoneRunOutTime: 30
+  dstBetweenMarkers: 1.5
+  perceptionRadius: 5
+  pheromoneEvaporateTime: 30
+  pheromoneWeight: 1
+  sensorSize: 2
+  sensorDst: 4
+  antennaDst: 2
+  lifetime: 150
